@@ -1,0 +1,10 @@
+{
+  "interval_seconds": 10,
+  "timeout_seconds": 5,
+  "targets": [
+    { "name": "github", "url": "https://github.com" },
+    { "name": "google", "url": "https://www.google.com" },
+    { "name": "example", "url": "https://example.com" },
+    { "name": "broken-demo", "url": "https://example.com/this-page-does-not-exist" }
+  ]
+}

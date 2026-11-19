@@ -1,0 +1,4 @@
+*.exe
+/health-monitor
+.vscode/
+.idea/
